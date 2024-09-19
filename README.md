@@ -13,7 +13,7 @@ Lox is a dynamically-typed, object-oriented programming language with a focus on
 Lox is still in development. We are actively improving the language and its interpreter. Feedback, issues, and contributions are welcome!
 
 ## Requirements:
-- Python 3.10 or higher
+- Python 3.6 or higher
 
 ## Installation:
 To use Lox, you first need to clone the repository:
