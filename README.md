@@ -1,5 +1,5 @@
 ---
-# Lox (Python 3.12)
+# Lox
 
 Lox is a dynamically-typed, object-oriented programming language with a focus on simplicity and flexibility. I've written this code Using  the Book [Crafting Interpreters](https://craftinginterpreters.com/) by [Bob Nystrom](https://github.com/munificent) Designed in Java (Jlox). Designed to be lightweight and easy to use, Lox is perfect for developers who want to experiment with scripting or dive into language design concepts. It runs on Python 3.12 and is currently under active development.
 
