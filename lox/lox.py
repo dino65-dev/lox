@@ -9,7 +9,6 @@ from lox.tokens import Token, TokenType
 
 def lox_copyright():
     print(
-        'Copyright (c) 2018-2018 Foo Bar Foundation.\n'
         'Copyright (c) 2024 Dinmay Brahma.\n'
         'All Rights Reserved.'
     )
