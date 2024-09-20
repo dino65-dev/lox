@@ -1,4 +1,4 @@
-All code implemented up to the "Runtime Errors" section of chapter 7,
+"""All code implemented up to the "Runtime Errors" section of chapter 7,
 "Evaluating Expressions".
 
 Includes:
@@ -7,4 +7,4 @@ Includes:
 - Scanner
 - Parser
 - AST Printer
-- Script for expression module generation
+- Script for expression module generation"""
