@@ -15,45 +15,21 @@ Lox is still in development. We are actively improving the language and its inte
 ## Requirements:
 - Python 3.6 or higher
 
-## Installation:
-To use Lox, you first need to clone the repository:
-
-```bash
-git clone https://github.com/dino65-dev/lox.git
-```
-
-Navigate to the cloned directory:
-
-```bash
-cd lox
-```
 
 ## Usage:
-Run the Lox interpreter to execute `.lox` files:
+#### REPL
 
 ```bash
-python lox.py <your-file>.lox
+python -m lox
 ```
+Enter `exit` or press Ctrl+D to leave.
 
-You can write your Lox scripts with basic constructs like variables, loops, and functions, or explore more advanced features like object-oriented programming.
 
-Example Lox code:
-
-```lox
-// Example Lox Program
-class Person {
-    init(name) {
-        this.name = name;
-    }
+#### Running a file:
+```bash
+python -m lox path/to/file
+```
     
-    greet() {
-        print "Hello, " + this.name + "!";
-    }
-}
-
-var john = Person("John");
-john.greet(); // Output: Hello, John!
-```
 
 ## Contributing:
 Contributions are encouraged! If you’d like to contribute:
